@@ -1,1 +1,2 @@
 Ini adalah halaman utama untuk web kasir koperasi.
+Fitur login sudah ditambahkan.
